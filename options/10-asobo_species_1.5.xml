@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SpeciesList>
+	<GrassMaterial guid="{399AF59B-9B49-43E0-A802-74C2A38010CC}"/>
+	<Species name="conifercool">
+		<Variations>
+			<Variation spawnRatio="1">
+				<Size min="23" max="30"/>
+				<Imposter stiffness="0.0" frames="10" textureIndex="0" relativeOffsetY="-0.075"/>
+				<MaskColor r="0.30" g="0.00" b="0.30" maxDistSquared=".1"/>
+			</Variation>
+			<Variation spawnRatio="1">
+				<Size min="26" max="33"/>
+				<Imposter stiffness="0.0" frames="10" textureIndex="1" relativeOffsetY="-0.075"/>
+				<MaskColor r="0.30" g="0.00" b="0.30" maxDistSquared=".1"/>
+			</Variation>
+			<Variation spawnRatio="0.5">
+				<Size min="30" max="38"/>
+				<Imposter stiffness="0.0" frames="10" textureIndex="2" relativeOffsetY="-0.1"/>
+				<MaskColor r="0.30" g="0.00" b="0.30" maxDistSquared=".1"/>
+			</Variation>
+			<Variation spawnRatio="0.5">
+				<Size min="38" max="45"/>
+				<Imposter stiffness="0.0" frames="10" textureIndex="3" relativeOffsetY="-0.1"/>
+				<MaskColor r="0.30" g="0.00" b="0.30" maxDistSquared=".1"/>
+			</Variation>
+		</Variations>
+		<Material name="{33AD9684-36EF-475B-B593-56E4F0570992}"/>
+	</Species>
+	<Species name="coniferboreal">
+		<Variations>
+			<Variation spawnRatio="1">
+				<Size min="30" max="45"/>
+				<Imposter stiffness="0.0" frames="10" textureIndex="0" relativeOffsetY="-0.12"/>
+				<MaskColor r="0.26" g="0.0" b="0.26" maxDistSquared="0.05"/>
+			</Variation>
+			<Variation spawnRatio="1">
+				<Size min="24" max="33"/>
+				<Imposter stiffness="0.0" frames="10" textureIndex="1" relativeOffsetY="-0.12"/>
+				<MaskColor r="0.5" g="0.0" b="0.5" maxDistSquared="0.075"/>
+			</Variation>
+			<Variation spawnRatio=".08">
+				<Size min="21" max="30"/>
+				<Imposter stiffness="0.0" frames="10" textureIndex="2" relativeOffsetY="-0.12"/>
+				<MaskColor r="0.5" g="0.0" b="0.5" maxDistSquared="0.1"/>
+			</Variation>
+			<Variation spawnRatio="0.25">
+				<Size min="24" max="39"/>
+				<Imposter stiffness="0.0" frames="10" textureIndex="3" relativeOffsetY="-0.12"/>
+				<MaskColor r="0.5" g="0.0" b="0.5" maxDistSquared="0.1"/>
+			</Variation>
+			<Variation spawnRatio="1">
+				<Size min="15" max="24"/>
+				<Imposter stiffness="0.0" frames="10" textureIndex="4" relativeOffsetY="-0.12"/>
+				<MaskColor r="0.5" g="0.0" b="0.5" maxDistSquared="0.1"/>
+			</Variation>
+		</Variations>
+		<Material name="{F0862942-FF42-48A7-A151-9109887629A2}"/>
+	</Species>
+	<Species name="semitropical">
+		<Variations>
+			<Variation spawnRatio="1">
+				<Size min="15" max="30"/>
+				<Imposter stiffness="0.0" frames="10" textureIndex="0"/>
+				<MaskColor r="0.8" g="0.0" b="0.8" maxDistSquared="0.5"/>
+			</Variation>
+			<Variation spawnRatio="1">
+				<Size min="23" max="53"/>
+				<Imposter stiffness="0.0" frames="10" textureIndex="1" relativeOffsetY="-0.12"/>
+				<MaskColor r="0.8" g="0.0" b="0.8" maxDistSquared="0.5"/>
+			</Variation>
+		</Variations>
+		<Material name="{7145FAF9-81D7-4A06-987F-16AFD39EACDF}"/>
+	</Species>
+	<Species name="palmtree">
+		<Variations>
+			<Variation>
+				<Size min="15" max="38"/>
+				<Imposter stiffness="0.0" frames="10" textureIndex="0" relativeOffsetY="-0.1"/>
+				<MaskColor r="0.40" g="0.0" b="0.40" maxDistSquared="0.15"/>
+			</Variation>
+			<Variation>
+				<Size min="15" max="38"/>
+				<Imposter stiffness="0.0" frames="10" textureIndex="1"/>
+				<MaskColor r="0.40" g="0.0" b="0.40" maxDistSquared="0.15"/>
+			</Variation>
+		</Variations>
+		<Material name="{9C85B474-043D-40E4-8B1E-68631AB32F1C}"/>
+	</Species>
+	<Species name="jungle">
+		<Variations>
+			<Variation>
+				<Size min="30" max="60"/>
+				<Imposter stiffness="0.0" frames="10" textureIndex="0"/>
+				<MaskColor r="0.8" g="0.0" b="0.8" maxDistSquared="0.5"/>
+			</Variation>
+			<Variation spawnRatio=".25">
+				<Size min="45" max="75"/>
+				<Imposter stiffness="0.0" frames="10" textureIndex="1" relativeOffsetY="-0.05"/>
+				<MaskColor r="0.8" g="0.0" b="0.8" maxDistSquared="0.5"/>
+			</Variation>
+			<Variation>
+				<Size min="38" max="53"/>
+				<Imposter stiffness="0.0" frames="10" textureIndex="2" relativeOffsetY="-0.25"/>
+				<MaskColor r="0.8" g="0.0" b="0.8" maxDistSquared="0.5"/>
+			</Variation>
+		</Variations>
+		<Material name="{876858A0-3BCC-4BA2-B1AD-565D4DC39F13}"/>
+	</Species>
+	<Species name="deciduous">
+		<Variations>
+			<Variation spawnRatio="1">
+				<Size min="15" max="21"/>
+				<Imposter stiffness="0.0" frames="10" textureIndex="0" relativeOffsetY="-0.05"/>
+				<MaskColor r="0.43" g="0.0" b="0.22" maxDistSquared="0.15"/>
+			</Variation>
+			<Variation spawnRatio=".35">
+				<Size min="23" max="30"/>
+				<Imposter stiffness="0.0" frames="10" textureIndex="1" relativeOffsetY="-0.025"/>
+				<MaskColor r="0.43" g="0.0" b="0.22" maxDistSquared="0.16"/>
+			</Variation>
+			<Variation spawnRatio="1">
+				<Size min="9" max="12"/>
+				<Imposter stiffness="0.0" frames="10" textureIndex="2" relativeOffsetY="-0.05"/>
+				<MaskColor r="0.43" g="0.0" b="0.22" maxDistSquared="0.1"/>
+			</Variation>
+			<Variation spawnRatio="1">
+				<Size min="11" max="15"/>
+				<Imposter stiffness="0.0" frames="10" textureIndex="3" relativeOffsetY="-0.05"/>
+				<MaskColor r="0.43" g="0.0" b="0.22" maxDistSquared="0.1"/>
+			</Variation>
+			<Variation>
+				<Size min="15" max="23"/>
+				<Imposter stiffness="0.0" frames="10" textureIndex="4" relativeOffsetY="-0.2"/>
+				<MaskColor r="0.43" g="0.0" b="0.22" maxDistSquared="0.1"/>
+			</Variation>
+			<Variation spawnRatio="0.4">
+				<Size min="30" max="38"/>
+				<Imposter stiffness="0.0" frames="10" textureIndex="5" relativeOffsetY="-0.03"/>
+				<MaskColor r="0.43" g="0.0" b="0.22" maxDistSquared="0.1"/>
+			</Variation>
+		</Variations>
+		<Material name="{94566142-3129-4903-B52C-94F5DFEAB76B}"/>
+	</Species>
+	<Species name="deciduous_small">
+		<Variations>
+			<Variation spawnRatio="1">
+				<Size min="9" max="14"/>
+				<Imposter stiffness="0.0" frames="10" textureIndex="0" relativeOffsetY="-0.25"/>
+				<MaskColor r="0.43" g="0.0" b="0.22" maxDistSquared="0.15"/>
+			</Variation>
+			<Variation spawnRatio=".7">
+				<Size min="21" max="29"/>
+				<Imposter stiffness="0.0" frames="10" textureIndex="1" relativeOffsetY="-0.05"/>
+				<MaskColor r="0.43" g="0.0" b="0.22" maxDistSquared="0.16"/>
+			</Variation>
+			<Variation spawnRatio="1">
+				<Size min="6" max="9"/>
+				<Imposter stiffness="0.0" frames="10" textureIndex="2" relativeOffsetY="-0.25"/>
+				<MaskColor r="0.43" g="0.0" b="0.22" maxDistSquared="0.1"/>
+			</Variation>
+			<Variation spawnRatio="1">
+				<Size min="9" max="14"/>
+				<Imposter stiffness="0.0" frames="10" textureIndex="3" relativeOffsetY="-0.25"/>
+				<MaskColor r="0.43" g="0.0" b="0.22" maxDistSquared="0.15"/>
+			</Variation>
+			<Variation spawnRatio="1">
+				<Size min="15" max="18"/>
+				<Imposter stiffness="0.0" frames="10" textureIndex="4" relativeOffsetY="-0.3"/>
+				<MaskColor r="0.43" g="0.0" b="0.22" maxDistSquared="0.1"/>
+			</Variation>
+			<Variation spawnRatio="0.5">
+				<Size min="21" max="30"/>
+				<Imposter stiffness="0.0" frames="10" textureIndex="5" relativeOffsetY="-0.3"/>
+				<MaskColor r="0.43" g="0.0" b="0.22" maxDistSquared="0.1"/>
+			</Variation>
+		</Variations>
+		<Material name="{94566142-3129-4903-B52C-94F5DFEAB76B}"/>
+	</Species>
+	<Species name="datetree">
+		<Variations>
+			<Variation>
+				<Size min="27" max="42"/>
+				<Imposter stiffness="0.0" frames="10" textureIndex="0" relativeOffsetY="-0.15"/>
+				<MaskColor r="0.29" g="0.0" b="0.22" maxDistSquared="0.1"/>
+			</Variation>
+			<Variation>
+				<Size min="23" max="33"/>
+				<Imposter stiffness="0.0" frames="10" textureIndex="1" relativeOffsetY="-0.25"/>
+				<MaskColor r="0.29" g="0.0" b="0.22" maxDistSquared="0.1"/>
+			</Variation>
+		</Variations>
+		<Material name="{28D9E1D5-5016-4F7B-94E6-87AD221B6E0E}"/>
+	</Species>
+	<Species name="acacia">
+		<Variations>
+			<Variation spawnRatio="1">
+				<Size min="14" max="21"/>
+				<Imposter stiffness="0.0" frames="12" textureIndex="0" relativeOffsetY="-0.25"/>
+				<MaskColor r="0.4" g="0.0" b="0.4" maxDistSquared="0.155"/>
+			</Variation>
+			<Variation spawnRatio="1">
+				<Size min="21" max="27"/>
+				<Imposter stiffness="0.0" frames="12" textureIndex="1" relativeOffsetY="-0.25"/>
+				<MaskColor r="0.4" g="0.0" b="0.4" maxDistSquared="0.155"/>
+			</Variation>
+			<Variation spawnRatio="1">
+				<Size min="27" max="33"/>
+				<Imposter stiffness="0.0" frames="12" textureIndex="2" relativeOffsetY="-0.25"/>
+				<MaskColor r="0.4" g="0.0" b="0.4" maxDistSquared="0.155"/>
+			</Variation>
+			<Variation spawnRatio="0.25">
+				<Size min="30" max="45"/>
+				<Imposter stiffness="0.0" frames="12" textureIndex="3" relativeOffsetY="-0.25"/>
+				<MaskColor r="0.4" g="0.0" b="0.4" maxDistSquared="0.155"/>
+			</Variation>
+		</Variations>
+		<Material name="{3CF39826-ACF5-4EC5-952A-2EE33AE86F72}"/>
+	</Species>
+	<Species name="cactus">
+		<Variations>
+			<Variation>
+				<Size min="2" max="5"/>
+				<Imposter stiffness="0.9" frames="8" textureIndex="0"/>
+			</Variation>
+			<Variation>
+				<Size min="5" max="11"/>
+				<Imposter stiffness="0.9" frames="8" textureIndex="1"/>
+			</Variation>
+			<Variation>
+				<Size min="3" max="12"/>
+				<Imposter stiffness="0.9" frames="8" textureIndex="2"/>
+			</Variation>
+		</Variations>
+		<Material name="{9CD7EB6A-E11A-4467-8004-0AC3EA5B80F0}"/>
+	</Species>
+	<Species name="shrub">
+		<Variations>
+			<Variation>
+				<Size min="8" max="11"/>
+				<Imposter stiffness="0.0" frames="6" textureIndex="0" relativeOffsetY="-.3"/>
+			</Variation>
+			<Variation>
+				<Size min="8" max="11"/>
+				<Imposter stiffness="0.0" frames="6" textureIndex="1" relativeOffsetY="-.3"/>
+			</Variation>
+			<Variation>
+				<Size min="8" max="12"/>
+				<Imposter stiffness="0.0" frames="6" textureIndex="2" relativeOffsetY="-.3"/>
+			</Variation>
+		</Variations>
+		<Material name="{156A2003-7E7D-4ADE-9FF2-EA239D605A28}"/>
+	</Species>
+	<Species name="scrub">
+		<Variations>
+			<Variation>
+				<Size min="9" max="14"/>
+				<Imposter stiffness="0.0" frames="8" textureIndex="0" relativeOffsetY="-.17"/>
+				<MaskColor r="0.35" g="0.31" b="0.27" maxDistSquared="0.08"/>
+			</Variation>
+			<Variation>
+				<Size min="8" max="14"/>
+				<Imposter stiffness="0.0" frames="8" textureIndex="1" relativeOffsetY="-.17"/>
+				<MaskColor r="0.35" g="0.31" b="0.27" maxDistSquared="0.08"/>
+			</Variation>
+			<Variation>
+				<Size min="11" max="18"/>
+				<Imposter stiffness="0.0" frames="8" textureIndex="2" relativeOffsetY="-.17"/>
+				<MaskColor r="0.35" g="0.31" b="0.27" maxDistSquared="0.08"/>
+			</Variation>
+		</Variations>
+		<Material name="{B1CD5B9B-DD55-404B-8E2E-619DBA2C378D}"/>
+	</Species>
+	<Species name="scrub_big">
+		<Variations>
+			<Variation>
+				<Size min="8" max="23"/>
+				<Imposter stiffness="0.0" frames="8" textureIndex="0" relativeOffsetY="-.17"/>
+				<MaskColor r="0.35" g="0.31" b="0.27" maxDistSquared="0.08"/>
+			</Variation>
+			<Variation spawnRatio="0.3">
+				<Size min="15" max="30"/>
+				<Imposter stiffness="0.0" frames="8" textureIndex="1" relativeOffsetY="-.17"/>
+				<MaskColor r="0.35" g="0.31" b="0.27" maxDistSquared="0.08"/>
+			</Variation>
+			<Variation>
+				<Size min="8" max="23"/>
+				<Imposter stiffness="0.0" frames="8" textureIndex="2" relativeOffsetY="-.17"/>
+				<MaskColor r="0.35" g="0.31" b="0.27" maxDistSquared="0.08"/>
+			</Variation>
+		</Variations>
+		<Material name="{B1CD5B9B-DD55-404B-8E2E-619DBA2C378D}"/>
+	</Species>
+	<Species name="scrubs_semitropical">
+		<Variations>
+			<Variation spawnRatio="1">
+				<Size min="15" max="30"/>
+				<Imposter stiffness="0.0" frames="10" textureIndex="0" relativeOffsetY="-.25"/>
+				<MaskColor r="0.8" g="0.0" b="0.8" maxDistSquared="0.5"/>
+			</Variation>
+			<Variation spawnRatio="1">
+				<Size min="15" max="30"/>
+				<Imposter stiffness="0.0" frames="10" textureIndex="1" relativeOffsetY="-.25"/>
+				<MaskColor r="0.8" g="0.0" b="0.8" maxDistSquared="0.5"/>
+			</Variation>
+		</Variations>
+		<Material name="{7145FAF9-81D7-4A06-987F-16AFD39EACDF}"/>
+	</Species>
+	<Species name="orangetree">
+		<Variations>
+			<Variation>
+				<Size min="23" max="38"/>
+				<Imposter stiffness="0.0" frames="4" textureIndex="0"/>
+			</Variation>
+			<Variation>
+				<Size min="15" max="30"/>
+				<Imposter stiffness="0.0" frames="4" textureIndex="1"/>
+			</Variation>
+		</Variations>
+		<Material name="{3F6CB38A-8CF5-43E4-9FEC-D919C15237D4}"/>
+	</Species>
+	<Species name="olivretree">
+		<Variations>
+			<Variation>
+				<Size min="23" max="38"/>
+				<Imposter stiffness="0.0" frames="4" textureIndex="0"/>
+			</Variation>
+			<Variation>
+				<Size min="15" max="30"/>
+				<Imposter stiffness="0.0" frames="4" textureIndex="1"/>
+			</Variation>
+		</Variations>
+		<Material name="{0DF5738F-916B-4513-937E-CC9C8D25616A}"/>
+	</Species>
+	<Species name="vineyard">
+		<Variations>
+			<Variation>
+				<Size min="23" max="38"/>
+				<Imposter stiffness="0.0" frames="4" textureIndex="0"/>
+			</Variation>
+			<Variation>
+				<Size min="23" max="38"/>
+				<Imposter stiffness="0.0" frames="6" textureIndex="1"/>
+			</Variation>
+			<Variation>
+				<Size min="23" max="38"/>
+				<Imposter stiffness="0.0" frames="4" textureIndex="2"/>
+			</Variation>
+			<Variation>
+				<Size min="23" max="38"/>
+				<Imposter stiffness="0.0" frames="6" textureIndex="3"/>
+			</Variation>
+			<Variation>
+				<Size min="23" max="38"/>
+				<Imposter stiffness="0.0" frames="6" textureIndex="3"/>
+			</Variation>
+		</Variations>
+		<Material name="{AF3A8EDC-794F-4E4C-929A-720701CC136E}"/>
+	</Species>
+</SpeciesList>
